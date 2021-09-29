@@ -1,0 +1,1 @@
+from schemas.property import Property
